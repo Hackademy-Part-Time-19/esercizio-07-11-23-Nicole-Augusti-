@@ -1,7 +1,7 @@
 # esercizio-07-11-23-Nicole-Augusti-
 flowchart
 
-Creare i segienti flochart:
+Creare i seguenti flochart:
 -algoritmo di una sveglia che suona tutti i giorni alle 7;
 -algoritmo autolavaggio;
 -algoritmo benzinaio;
